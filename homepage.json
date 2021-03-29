@@ -7,7 +7,7 @@
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat",
 	"task": [
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "Do stuff"
 		}
 	]
