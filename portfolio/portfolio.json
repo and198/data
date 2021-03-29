@@ -1,8 +1,11 @@
 {
 	"painting": [
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
-			"name": "Carwash",
+			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/and198/data@252f8210163de8a66a2394a618a1a813d3bd86f8/portfolio/images/Schermata%202021-03-29%20alle%2011.26.55.png",
+			"name": "Test 1",
 			"@type": "Painting"
 		},
 		{
